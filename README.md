@@ -19,10 +19,12 @@ Whether you are a student currently enrolled in a TU C programming course or loo
 
 The code solutions are organized into folders based on different topics and categories covered in the TU C programming curriculum. Each folder represents a specific concept or problem domain. Here is the current folder structure:
 
-- [Folder 1](folder1/): Description of the folder content.
-- [Folder 2](folder2/): Description of the folder content.
-- [Folder 3](folder3/): Description of the folder content.
-- ...
+- [Lab Session 01](lab-session-01/): C Programming Laboratory Session 1 Solutions.
+- [Lab Session 02](lab-session-02/): C Programming Laboratory Session 2 Solutions.
+- [Lab Session 03](lab-session-03/): C Programming Laboratory Session 3 Solutions.
+- [Lab Session 04](lab-session-04/): C Programming Laboratory Session 4 Solutions.
+- [Lab Session 05](lab-session-05/): C Programming Laboratory Session 5 Solutions.
+- [Lab Session 06](lab-session-06/): C Programming Laboratory Session 6 Solutions.
 
 Feel free to explore the folders and navigate to the specific topic you are studying. Each folder may contain multiple code files, with each file representing a solution to a specific problem or exercise. The file names are chosen to be descriptive and should give you an idea of the problem being solved.
 
