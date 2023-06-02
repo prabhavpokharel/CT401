@@ -26,6 +26,7 @@ The code solutions are organized into folders based on different topics and cate
   - [Session 04](Lab_Session_4/)
   - [Session 05](Lab_Session_5/)
   - [Session 06](Lab_Session_6/)
+- [Pattern Outputs](Pattern_Outputs/)
 
 Feel free to explore the folders and navigate to the specific topic you are studying. Each folder may contain multiple code files, with each file representing a solution to a specific problem or exercise. The file names are chosen to be descriptive and should give you an idea of the problem being solved.
 
