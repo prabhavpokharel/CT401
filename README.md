@@ -19,14 +19,13 @@ Whether you are a student currently enrolled in a TU C programming course or loo
 
 The code solutions are organized into folders based on different topics and categories covered in the TU C programming curriculum. Each folder represents a specific concept or problem domain. Here is the current folder structure:
 
-- Lab
-  - [Session 01](Lab_Session_1/)
-  - [Session 02](Lab_Session_2/)
-  - [Session 03](Lab_Session_3/)
-  - [Session 04](Lab_Session_4/)
-  - [Session 05](Lab_Session_5/)
-  - [Session 06](Lab_Session_6/)
-- [Pattern Outputs](Pattern_Outputs/)
+- [Basic Input ](Lab_Session_1/)
+- [Session 02](Lab_Session_2/)
+- [Session 03](Lab_Session_3/)
+- [Session 04](Lab_Session_4/)
+- [Session 05](Lab_Session_5/)
+- [Session 06](Lab_Session_6/)
+- [Pattern Printing](PatternPrinting/)
 
 Feel free to explore the folders and navigate to the specific topic you are studying. Each folder may contain multiple code files, with each file representing a solution to a specific problem or exercise. The file names are chosen to be descriptive and should give you an idea of the problem being solved.
 
