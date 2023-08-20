@@ -19,20 +19,18 @@ Whether you are a student currently enrolled in a TU C programming course or loo
 
 The code solutions are organized into folders based on different topics and categories covered in the TU C programming curriculum. Each folder represents a specific concept or problem domain. Here is the current folder structure:
 
-1. [L00_PatternPrinting](L00_PatternPrinting/)
-2. [L01_BasicInputAndOutput](L01_BasicInputAndOutput/)
-3. [L02_SelectiveStructures](L02_SelectiveStructures/)
-4. [L03_SelectiveStructures](L03_SelectiveStructures/)
-5. [L04_IterativeStructures](L04_IterativeStructures/)
-6. [L05_IterativeStructures](L05_IterativeStructures/)
-7. [L06_Functions](L06_Functions/)
-8. [L07_Recursions](L07_Recursions/)
-9. [L08_Arrays](L08_Arrays/)
-10. [L09_ArraysWithFunctions](L09_ArraysWithFunctions/)
-11. [L10_Strings](L10_Strings/)
-12. [L11_Pointers](L11_Pointers/)
-13. [L12_Structures](L12_Structures/)
-14. [L13_StructuresUsingFunctions](L13_StructuresUsingFunctions/)
+1. [PatternPrinting](PatternPrinting/)
+2. [BasicInputAndOutput](BasicInputAndOutput/)
+3. [SelectiveStructures](SelectiveStructures/)
+4. [IterativeStructures](IterativeStructures/)
+6. [Functions](Functions/)
+8. [Recursions](Recursions/)
+9. [Arrays](Arrays/)
+10. [ArraysWithFunctions](ArraysWithFunctions/)
+11. [Strings](Strings/)
+12. [Pointers](Pointers/)
+13. [Structures](Structures/)
+14. [StructuresUsingFunctions](StructuresUsingFunctions/)
 
 Feel free to explore the folders and navigate to the specific topic you are studying. Each folder may contain multiple code files, with each file representing a solution to a specific problem or exercise. The file names are chosen to be descriptive and should give you an idea of the problem being solved.
 
