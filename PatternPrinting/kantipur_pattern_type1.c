@@ -21,7 +21,7 @@ even->uppercase
 void main()
 {
 	int i, j;
-	char n[9]="kantipur";				//@prabhavpokharel (KAN079BCT051)
+	char n[9]="kantipur";				
 	
 	for(i=0; i<strlen(n); i++)
 	{		
