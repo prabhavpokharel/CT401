@@ -19,18 +19,18 @@ Whether you are a student currently enrolled in a TU C programming course or loo
 
 The code solutions are organized into folders based on different topics and categories covered in the TU C programming curriculum. Each folder represents a specific concept or problem domain. Here is the current folder structure:
 
-1. [PatternPrinting](PatternPrinting/)
-2. [BasicInputAndOutput](BasicInputAndOutput/)
-3. [SelectiveStructures](SelectiveStructures/)
-4. [IterativeStructures](IterativeStructures/)
-6. [Functions](Functions/)
-8. [Recursions](Recursions/)
-9. [Arrays](Arrays/)
-10. [ArraysWithFunctions](ArraysWithFunctions/)
-11. [Strings](Strings/)
-12. [Pointers](Pointers/)
-13. [Structures](Structures/)
-14. [StructuresUsingFunctions](StructuresUsingFunctions/)
+1. [BasicInputAndOutput](BasicInputAndOutput/)
+2. [SelectiveStructures](SelectiveStructures/)
+3. [IterativeStructures](IterativeStructures/)
+4. [PatternPrinting](PatternPrinting/)
+5. [Functions](Functions/)
+6. [Recursions](Recursions/)
+7. [Arrays](Arrays/)
+8. [ArraysWithFunctions](ArraysWithFunctions/)
+9. [Strings](Strings/)
+10. [Pointers](Pointers/)
+11. [Structures](Structures/)
+12. [StructuresUsingFunctions](StructuresUsingFunctions/)
 
 Feel free to explore the folders and navigate to the specific topic you are studying. Each folder may contain multiple code files, with each file representing a solution to a specific problem or exercise. The file names are chosen to be descriptive and should give you an idea of the problem being solved.
 
