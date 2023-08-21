@@ -1,6 +1,6 @@
 # C Programming Code Solutions Repository
 
-Welcome to the C Programming Code Solutions Repository! This repository is a collection of code solutions for various C programming questions and exercises, primarily based on the curriculum of Tribhuvan University (TU). It is created with the aim of providing a valuable resource for TU students, batchmates, and juniors to revise and understand C programming concepts.
+Welcome to the C Programming Code Solutions Repository! This repository is a collection of code solutions for various C programming questions and exercises, primarily based on the curriculum of Tribhuvan University (TU). It is created to provide a valuable resource for TU students, batchmates, and juniors to revise and understand C programming concepts.
 
 ## Table of Contents
 
@@ -19,13 +19,13 @@ Whether you are a student currently enrolled in a TU C programming course or loo
 
 The code solutions are organized into folders based on different topics and categories covered in the TU C programming curriculum. Each folder represents a specific concept or problem domain. Here is the current folder structure:
 
-1. [BasicInputAndOutput](BasicInputAndOutput/)
-2. [ControlStatements](ControlStatements/)
-    2.1. [PatternPrinting](ControlStatements/PatternPrinting/)
+1. [Basic Input and Output](BasicInputAndOutput/)
+2. [Control Statements](ControlStatements/)
+    1. [Pattern Printing](ControlStatements/PatternPrinting/)
 3. [Functions](Functions/)
-4. [ArraysAndStrings](ArraysAndStrings/)
-    4.1. [Arrays](ArraysAndStrings/Arrays/)
-    4.2. [Strings](ArraysAndStrings/Strings/)
+4. [Arrays and Strings](ArraysAndStrings/)
+    1. [Arrays](ArraysAndStrings/Arrays/)
+    2. [Strings](ArraysAndStrings/Strings/)
 5. [Pointers](Pointers/)
 6. [Structures](Structures/)
 7. [Files](Files/)
